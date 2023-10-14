@@ -16,4 +16,5 @@ Manejo de base de datos y relaciones
 
 **Visualizaciones:**
 En el dashboard se peude observar las ventas totales de los años del 2003 al 2005 con un total de $8,847,772 
+
 ![image](https://github.com/jolosjoel/PowerBI-Dashboard/assets/45809759/3b07624d-36b5-4d2c-b702-0e24a4b19436)
