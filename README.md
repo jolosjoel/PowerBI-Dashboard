@@ -10,7 +10,7 @@
 
 Este repositorio contiene un proyecto de Power BI que se basa en una base de datos en SQL para el proceso de ETL y la creación de un dashboard que ayuda a la compañía a tomar decisiones informadas en la venta de autos con fecha de los años 2003, 2004 y 2005.
 
-![Screenshot del Dashboard](https://github.com/jolosjoel/PowerBI-Dashboard/assets/45809759/711bcf0c-9641-4a18-bbce-4736cf0f57ec)
+<img src="https://github.com/jolosjoel/PowerBI-Dashboard/assets/45809759/711bcf0c-9641-4a18-bbce-4736cf0f57ec" width="300" height="200">
 
 ## Manejo de base de datos y relaciones
 
